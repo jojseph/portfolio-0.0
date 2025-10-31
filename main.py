@@ -37,7 +37,7 @@ st.write("""
     with an interest in software development and problem-solving.
 """)
 
-ui.link_button(text="Github", url="https://github.com/ObservedObserver/streamlit-shadcn-ui", key="link_btn")
+ui.link_button(text="Github", url="https://github.com/jojseph", key="link_btn")
 
 tab = ui.tabs(
     options=["Projects", "Contact", "Demo"],
